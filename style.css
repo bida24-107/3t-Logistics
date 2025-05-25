@@ -296,7 +296,7 @@ padding-top: 100px;
 .sub-header{
   height: 30vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/7.jpg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(7.jpg);
   background-position: center;
   background-size: cover;
   text-align: center;
@@ -347,7 +347,7 @@ footer{
 .footerContainer{
   width: 100%;
   padding: 70px 30px 20px;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(img/1.jpg);
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(1.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
